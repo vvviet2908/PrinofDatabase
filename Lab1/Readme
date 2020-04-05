@@ -1,0 +1,25 @@
+Lab 1 - Introduction to SQL 
+Content: 
+- Starting MS SQL Server 2014
+- Managing tables in MS SQL Server 2014
+- Practising SQL statements 
+References
+- Lab 1 – Database system (Instruction)
+- Book: Beginning SQL Server 2012 for Developers
+- Tutorial: http://www.tutorialspoint.com/sql/sql-create-database.htm 
+ 
+Task 1: 
+Starting MS SQL Server 2014 <Follow the instruction in Lab 1 – Database system> 
+ 
+Task 2: 
+Managing tables in MS SQL Server 2014 <Follow the instruction in Lab 1 – Database system> 
+ 
+Task 3: 
+Practising SQL statements  
+Write queries to  - create a database as the example in http://www.tutorialspoint.com/sql/sql-createdatabase.htm,
+- create a table as the example in http://www.tutorialspoint.com/sql/sql-createtable.htm in the above created database, 
+- insert some rows into the above table and select all rows to check the table data.
+Design a student database including 3 tables below:
+Students (Sid: string(10), sname: string(30), Dob: date, Address: string(50), ID_card: string(12)) 
+Course (Cid: string(10), cname: string(30), credit: int) 
+Enrolled (Sid: String(10), Cid: String(12), day: date)
