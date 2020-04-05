@@ -1,0 +1,29 @@
+Lab 2 - Introduction to Transact-SQL
+Content:
+-	Learning MS SQL Server 2014
+-	Practising T-SQL
+References
+[1] Lab 2 – Database system (Instruction)
+[2] Book: Beginning SQL Server 2012 for Developers
+[3] Tutorial: http://www.tutorialspoint.com/sql
+[4] https://sites.google.com/site/nttsteaching/home/database 
+
+Task 1: Learning Transact-SQL and Query Editor in MS SQL Server 2014
+<Follow Part 1 and Part 2 in the instruction of Lab 2 – Database system>
+
+Task 2: Practising T-SQL
+<Follow Part 3 and Part 4 in the instruction of Lab 2 – Database system>
+Using/restoring the ApressFinancial database created in Lab 1, 
+-	Create Transactions, TransactionTypes, CustomerProducts, FinancialProducts, SharePrices, and Shares tables. You need to declare integrity constraints, e.g. primary keys or foreign keys, for these tables.
+-	Insert data into the tables.
+-	Add a CK_CustProds_AmtCheck constraint on the AmountToCollect column in the CustomerProducts table: AmountToCollect > 0.
+-	Add a DEFAULT(0) value constraint on the Renewable column in the CustomerProducts table.
+-	Insert data into the CustomerProducts table.
+-	Select data from all tables.
+
+Note: If there are some problems with DBMS in your computer, you can:
+- Download a miniserver (MySQL 5.0.67 Portable) from [4]. Just run the mysql_start.bat
+file, type ‘mysql --user=root --password=root’ from the prompt, then you can start
+a mysql prompt. To stop MSQL, run mysql_stop.bat.
+- Or use http://www.tutorialspoint.com/mysql_terminal_online.php.
+
