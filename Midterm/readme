@@ -1,0 +1,22 @@
+Guidelines for students 
+ 
+The following list are topics for a midterm test in Principles of Database Management courses, 
+at the School of Computer Science and Engineering, International University, HCM National University. 
+ 
+Three students will be randomly selected to form a group. 
+After formed, students in their group will work together on a given topic. 
+Once again, a topic of this list will be randomly assigned to each group. 
+During midterm test, students learn how to implement and analyze the database step by step. 
+After two weeks, each group upload their result on the Blackboard IU. 
+ 
+After choosing a topic, you have to study it and follow tasks in the topic specification document carefully. 
+Try to discuss with your teammates to gain a deeper understanding about your topic. 
+During two weeks, you can clarify unclear issues with your teammates. 
+Remember that all the hard works are yours; teammates only give you some brief advices based on what you have done. 
+ 
+Requirements 
+1. (40 pts) Analyzing requirements and designing ER model. 
+2. (20 pts) Converting from ERD to relational model. 
+3. (35 pts) Using SQL to create a database with integrity constraints. 
+Next, input data into the database. Then, using SQL query to update, manipulate, query, retrieve data from the database. 
+4. (15) Using relational algebra to perform data queries.   
