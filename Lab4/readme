@@ -1,0 +1,23 @@
+Lab 4 - Database Analysis and Design Content:
+- Building a view in database
+- Analyze the topic of assignments
+- Design relational database schema 
+- Normalize the designed database schema to Third Normal Form 
+- Edit and install the designed database schema into the Microsoft SQL Server 2014 
+ 
+References
+[1] Lab 4 – Database system (Instruction) 
+[2] Book: Beginning SQL Server 2012 for Developers
+[3] Tutorial: http://www.tutorialspoint.com/sql
+[4] https://sites.google.com/site/nttsteaching/home/database 
+Task 1: Building a view Using/restoring the ApressFinancial database created in Lab 3, 
+create a View - Over Interface, - By T-SQL,
+and - With option SCHEMABINDING. <Follow Part 1 in the instruction of Lab 4 – Database system> 
+Task 2: Diagramming the Database Create a Database Diagram.
+<Follow Part 2 in the instruction of Lab 4 – Database system> 
+Task 3: Database Design for Your Assignment - Design an ERD using MS Visio (or ERDPlus…). 
+- Convert the ERD to a database schema. 
+- Normalize the database schema to 3NF/BCNF. 
+- Build the database in SQL.
+<Follow Parts 3 and 4 in the instruction of Lab 4 – Database system> 
+ 
